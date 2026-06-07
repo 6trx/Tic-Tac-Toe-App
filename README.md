@@ -1,5 +1,3 @@
-README
-
 # Tic Tac Toe Game 🎮
 
 This project is a **Java implementation of Tic Tac Toe** designed to demonstrate key programming concepts and best practices. It was developed as part of coursework to integrate multiple areas of Java development into a single, functional application.
